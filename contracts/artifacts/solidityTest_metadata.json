@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "Result",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Tasks/contracts/tasks.sol": "solidityTest"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Tasks/contracts/tasks.sol": {
+			"keccak256": "0x3455878402ca639061904b6950f80d38beb51c5904fa6e3c3bc6705fc0ecbc05",
+			"license": "MT",
+			"urls": [
+				"bzz-raw://81f5cf9e17164a1f0d497efeaaeab32197578ba34636ec60763a2cea050e41fc",
+				"dweb:/ipfs/QmWaLcbouchbWHuTrGUkcWXDpgj2xCHX6D4b8q5DC1ddVv"
+			]
+		}
+	},
+	"version": 1
+}
